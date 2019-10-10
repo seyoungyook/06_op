@@ -33,6 +33,7 @@ int main(int argc, char *argv[]){
 	output = sumTwo(x,y);
 	printf("sumTwo : %i\n", output);
 	printf("square : %i\n", square(x));
+	printf("get_max : %i\n", get_max(x,y));
 	
 	return 0;
 }
